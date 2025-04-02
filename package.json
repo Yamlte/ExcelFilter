@@ -1,0 +1,17 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "the program code that will fill in the file according to the template, for submission to the tax",
+  "license": "ISC",
+  "author": "Daniil Dudyakov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
